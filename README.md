@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Fullstack Developer | Data Analyst <br><br>🎓 I am a Java Fullstack developer and Data Analytics from India<br><br>💼 I’m currently looking for Java Developer or  Data Analyst opportunities<br><br>🌱 I’m currently learning Advanced Python, Data Analytics, and System Design<br><br>💬 Ask me about Python, Java , Spring Security , MVC Arcitecture , SpringBoot, SQL, Power BI, Excel, ReactJS, and Data Visualization<br><br>🚀 I enjoy turning data into insights and building web applications<br><br>📫 How to reach me: vanshutaletia2005@gmail.com<br><br>📄 Know about my experiences:<br>https://drive.google.com/file/d/1SJGUM8D96XQ5yG1opP3snOzmtY5DDSst/view?usp=sharing
+Java Fullstack Developer | Data Analyst <br><br>🎓 I am a Java Fullstack developer and Data Analytics from India<br><br>💼 I’m currently looking for Java Developer or  Data Analyst opportunities<br><br>🌱 I’m currently learning Advanced Python, Data Analytics and System Design<br><br>💬 Ask me about Python, Java , Spring Security , MVC Arcitecture , SpringBoot, SQL, Power BI, Excel, ReactJS, and Data Visualization<br><br>🚀 I enjoy turning data into insights and building web applications<br><br>📫 How to reach me: vanshutaletia2005@gmail.com<br><br>📄 Know about my experiences:<br>https://drive.google.com/file/d/1SJGUM8D96XQ5yG1opP3snOzmtY5DDSst/view?usp=sharing
 
 
 ## 🌐 Socials:
